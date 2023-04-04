@@ -24,7 +24,7 @@ chatbot = ChatBot(
             'output_text': 'Ok, here is a link: http://chatterbot.rtfd.org'
         }
     ],
-    database_uri='mongodb://localhost:27017/your-mongodb-database',
+    database_uri='mongodb://localhost:27017/LeonGanz:kalisemut140513@dbyuicanz.de5am.mongodb.net/?retryWrites=true&w=majority',
     read_only=True
 )
 
